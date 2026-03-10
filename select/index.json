@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Impurities",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2026-03-10T08:18:29.482399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "Arlo Parks",
+      "has_synced": true,
+      "path": "select/02_Impurities_Arlo_Parks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/04_Impurities_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/06_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/07_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/08_Impurities_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/09_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/10_Impurities_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Impurities",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Impurities_LE_SSERAFIM.txt"
+    }
+  ]
+}
