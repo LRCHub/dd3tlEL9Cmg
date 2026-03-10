@@ -1,0 +1,81 @@
+# LE SSERAFIM – Impurities
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.16] Can you see huh?
+[00:17.16] 
+[00:11.98] 떨어진 한 방울 drip
+[00:14.04] 투명한 내 안에 섞여 들지
+[00:16.68] 아무렇지 않은 듯 keep on moving (yeah)
+[00:20.12] Impurities, show you my impurities
+[00:22.85] 욕심내 더 like a witch
+[00:24.46] Show you real me 검붉어지는 빛
+[00:27.01] 강렬하게 반짝여 glittery things (yeah, things)
+[00:30.85] Impurities, show you my impurities
+[00:47.85] 
+[00:33.05] 천천히 밟아가 경계선을 넘어가
+[00:36.33] 검게 휩싸인 욕망들의 deep sign
+[00:38.98] 가시밭길 위로 상처투성이로 가
+[00:41.34] So natural, invincible
+[00:43.99] Ooh, yeah, don't wanna hide
+[00:46.32] Ooh, yeah, 과감히 fight
+[00:49.54] 상처로 가득한 단단한 불투명함
+[00:52.38] So natural, 아름다워
+[01:00.38] 
+[00:54.75] I can see 선명해지는 desire
+[00:59.53] So here's my key
+[01:02.53] (괜찮아, no matter what you say)
+[01:05.18] Can you see huh?
+[01:13.18] 
+[01:07.95] 떨어진 한 방울 drip
+[01:09.75] 투명한 내 안에 섞여 들지
+[01:12.58] 아무렇지 않은 듯 keep on moving (yeah)
+[01:16.22] Impurities, show you my impurities
+[01:18.81] 욕심내 더 like a witch
+[01:20.52] Show you real me 검붉어지는 빛
+[01:23.34] 강렬하게 반짝여 glittery things (yeah, things)
+[01:26.76] Impurities, show you my impurities
+[01:43.76] 
+[01:29.22] Goodness (oh), 혹은 badness (oh)
+[01:31.82] 이건 magic (oh), 아님 tragic (oh)
+[01:34.53] 다친대도 (oh), 다시 try it (oh)
+[01:37.11] (Oh-oh-oh-oh-ha-oh, ha-oh)
+[01:40.07] 심장의 빛깔은 마치 crimson
+[01:42.62] 타오를 듯한 내 안의 passion
+[01:45.43] 모험의 증거는 마치 necklace
+[01:48.03] 나를 더 빛나게 해
+[01:53.03] 
+[01:50.88] I can see 펼쳐진 destinations
+[01:55.35] So here's my key
+[01:58.79] (괜찮아, no matter what you say)
+[02:01.24] Can you see huh?
+[02:09.24] 
+[02:03.99] 떨어진 한 방울 drip
+[02:05.87] 투명한 내 안에 섞여 들지
+[02:08.48] 아무렇지 않은 듯 keep on moving (yeah)
+[02:11.98] Impurities, show you my impurities
+[02:14.50] 욕심내 더 like a witch
+[02:16.64] Show you real me 검붉어지는 빛
+[02:19.27] 강렬하게 반짝여 glittery things (yeah, things)
+[02:22.96] Impurities, show you my impurities
+[02:39.96] 
+[02:25.46] 짙어지는 욕망은 핏빛 (핏빛)
+[02:28.01] 끝을 알 수 없는 내 wishes (wishes)
+[02:30.54] 아름다워 난 with my scratches (scratches)
+[02:33.12] Just because it's what I am
+[02:35.97] 시련 속에서 커진 power (power)
+[02:38.51] 겁내지 않아 덮친 shadow (shadow)
+[02:41.15] 다 이뤄 내 desire
+[02:43.48] Just because it's what I am
+[02:46.43] Can you see huh? (ha-ha-ah)
+[02:59.93] 
+[02:49.69] 떨어진 한 방울 drip
+[02:51.35] 투명한 내 안에 섞여 들지
+[02:53.96] 아무렇지 않은 듯 keep on moving (umm-hm-hm, yeah)
+[02:57.31] Impurities, show you my impurities
+[02:59.98] 욕심내 더 like a witch
+[03:01.97] Show you real me 검붉어지는 빛
+[03:04.79] 강렬하게 반짝여 glittery things (yeah, things)
+[03:08.21] Impurities, show you my impurities
+```
